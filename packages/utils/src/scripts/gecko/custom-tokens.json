@@ -13,5 +13,25 @@
     "id": "danchortoken",
     "symbol": "usn",
     "name": "USN"
+  },
+  {
+    "id": "chexchexchex",
+    "symbol": "chex",
+    "name": "Chintai"
+  },
+  {
+    "id": "eoshashcoins",
+    "symbol": "hash",
+    "name": "Hash"
+  },
+  {
+    "id": "eoshashcoins",
+    "symbol": "hpoint",
+    "name": "HPoint"
+  },
+  {
+    "id": "ram.defi",
+    "symbol": "bram",
+    "name": "bRAM"
   }
 ]
